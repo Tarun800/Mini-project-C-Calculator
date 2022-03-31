@@ -1,8 +1,8 @@
- /* # Doxyfile 1.9.3
+ Doxyfile 1.9.3
 
-#---------------------------------------------------------------------------
-# Project related configuration options
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+project related configuration options
+---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "Student records"
 PROJECT_NUMBER         =
@@ -61,9 +61,9 @@ INLINE_SIMPLE_STRUCTS  = NO
 TYPEDEF_HIDES_STRUCT   = NO
 LOOKUP_CACHE_SIZE      = 0
 NUM_PROC_THREADS       = 1
-#---------------------------------------------------------------------------
-# Build related configuration options
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Build related configuration options
+---------------------------------------------------------------------------
 EXTRACT_ALL            = NO
 EXTRACT_PRIVATE        = NO
 EXTRACT_PRIV_VIRTUAL   = NO
@@ -104,9 +104,9 @@ SHOW_NAMESPACES        = YES
 FILE_VERSION_FILTER    =
 LAYOUT_FILE            =
 CITE_BIB_FILES         =
-#---------------------------------------------------------------------------
-# Configuration options related to warning and progress messages
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to warning and progress messages
+---------------------------------------------------------------------------
 QUIET                  = NO
 WARNINGS               = YES
 WARN_IF_UNDOCUMENTED   = YES
@@ -116,9 +116,9 @@ WARN_NO_PARAMDOC       = NO
 WARN_AS_ERROR          = NO
 WARN_FORMAT            = "$file:$line: $text"
 WARN_LOGFILE           =
-#---------------------------------------------------------------------------
-# Configuration options related to the input files
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the input files
+---------------------------------------------------------------------------
 INPUT                  = ../Inc
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
@@ -181,9 +181,9 @@ FILTER_PATTERNS        =
 FILTER_SOURCE_FILES    = NO
 FILTER_SOURCE_PATTERNS =
 USE_MDFILE_AS_MAINPAGE =
-#---------------------------------------------------------------------------
-# Configuration options related to source browsing
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to source browsing
+---------------------------------------------------------------------------
 SOURCE_BROWSER         = NO
 INLINE_SOURCES         = NO
 STRIP_CODE_COMMENTS    = YES
@@ -197,14 +197,14 @@ CLANG_ASSISTED_PARSING = NO
 CLANG_ADD_INC_PATHS    = YES
 CLANG_OPTIONS          =
 CLANG_DATABASE_PATH    =
-#---------------------------------------------------------------------------
-# Configuration options related to the alphabetical class index
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the alphabetical class index
+---------------------------------------------------------------------------
 ALPHABETICAL_INDEX     = YES
 IGNORE_PREFIX          =
-#---------------------------------------------------------------------------
-# Configuration options related to the HTML output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the HTML output
+---------------------------------------------------------------------------
 GENERATE_HTML          = YES
 HTML_OUTPUT            = html
 HTML_FILE_EXTENSION    = .html
@@ -267,9 +267,9 @@ SEARCHENGINE_URL       =
 SEARCHDATA_FILE        = searchdata.xml
 EXTERNAL_SEARCH_ID     =
 EXTRA_SEARCH_MAPPINGS  =
-#---------------------------------------------------------------------------
-# Configuration options related to the LaTeX output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the LaTeX output
+---------------------------------------------------------------------------
 GENERATE_LATEX         = NO
 LATEX_OUTPUT           = latex
 LATEX_CMD_NAME         =
@@ -289,52 +289,52 @@ LATEX_HIDE_INDICES     = NO
 LATEX_BIB_STYLE        = plain
 LATEX_TIMESTAMP        = NO
 LATEX_EMOJI_DIRECTORY  =
-#---------------------------------------------------------------------------
-# Configuration options related to the RTF output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the RTF output
+---------------------------------------------------------------------------
 GENERATE_RTF           = NO
 RTF_OUTPUT             = rtf
 COMPACT_RTF            = NO
 RTF_HYPERLINKS         = NO
 RTF_STYLESHEET_FILE    =
 RTF_EXTENSIONS_FILE    =
-#---------------------------------------------------------------------------
-# Configuration options related to the man page output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the man page output
+---------------------------------------------------------------------------
 GENERATE_MAN           = NO
 MAN_OUTPUT             = man
 MAN_EXTENSION          = .3
 MAN_SUBDIR             =
 MAN_LINKS              = NO
-#---------------------------------------------------------------------------
-# Configuration options related to the XML output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the XML output
+---------------------------------------------------------------------------
 GENERATE_XML           = NO
 XML_OUTPUT             = xml
 XML_PROGRAMLISTING     = YES
 XML_NS_MEMB_FILE_SCOPE = NO
-#---------------------------------------------------------------------------
-# Configuration options related to the DOCBOOK output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the DOCBOOK output
+---------------------------------------------------------------------------
 GENERATE_DOCBOOK       = NO
 DOCBOOK_OUTPUT         = docbook
-#---------------------------------------------------------------------------
-# Configuration options for the AutoGen Definitions output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options for the AutoGen Definitions output
+---------------------------------------------------------------------------
 GENERATE_AUTOGEN_DEF   = NO
-#---------------------------------------------------------------------------
-# Configuration options related to Sqlite3 output
-#---------------------------------------------------------------------------
-#---------------------------------------------------------------------------
-# Configuration options related to the Perl module output
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to Sqlite3 output
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the Perl module output
+---------------------------------------------------------------------------
 GENERATE_PERLMOD       = NO
 PERLMOD_LATEX          = NO
 PERLMOD_PRETTY         = YES
 PERLMOD_MAKEVAR_PREFIX =
-#---------------------------------------------------------------------------
-# Configuration options related to the preprocessor
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the preprocessor
+ ---------------------------------------------------------------------------
 ENABLE_PREPROCESSING   = YES
 MACRO_EXPANSION        = NO
 EXPAND_ONLY_PREDEF     = NO
@@ -344,17 +344,17 @@ INCLUDE_FILE_PATTERNS  =
 PREDEFINED             =
 EXPAND_AS_DEFINED      =
 SKIP_FUNCTION_MACROS   = YES
-#---------------------------------------------------------------------------
-# Configuration options related to external references
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to external references
+---------------------------------------------------------------------------
 TAGFILES               =
 GENERATE_TAGFILE       =
 ALLEXTERNALS           = NO
 EXTERNAL_GROUPS        = YES
 EXTERNAL_PAGES         = YES
-#---------------------------------------------------------------------------
-# Configuration options related to the dot tool
-#---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+ Configuration options related to the dot tool
+---------------------------------------------------------------------------
 DIA_PATH               =
 HIDE_UNDOC_RELATIONS   = YES
 HAVE_DOT               = NO
@@ -392,4 +392,4 @@ DOT_TRANSPARENT        = NO
 DOT_MULTI_TARGETS      = NO
 GENERATE_LEGEND        = YES
 DOT_CLEANUP            = YES
-/*
+
