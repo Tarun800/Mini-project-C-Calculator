@@ -1,3 +1,13 @@
+/**
+ * @file records.h
+ * @author Tarun
+ * @about students records
+ *
+ */
+
+#ifndef _records_h
+#define _records_h
+
 #include<stdio.h>
 #include<conio.h>
 
@@ -11,3 +21,4 @@ void add();
 	void changePassword();
 
 ##end if
+/* #define_records_h */
