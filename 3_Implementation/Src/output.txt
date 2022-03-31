@@ -1,0 +1,19 @@
+
+                                ========================================================
+
+                                                   STUDENT RECORDS
+
+                                ========================================================
+
+----------------------
+choose an option below
+----------------------
+1.add a record
+2.delete a record
+3.modify a record
+4.generate marksheet
+5.search a record
+6.display all records
+7.change password
+8.exit
+----------------------
