@@ -3,3 +3,5 @@
 
 # Codiga
 * [![Code Grade](https://api.codiga.io/project/32263/status/svg)](https://app.codiga.io/public/project/32263/Mini-project-C-Student-Records/dashboard)
+
+[![Build-linux](https://github.com/sahith0293/m1_Bank-management-system_utility/actions/workflows/linux.yml/badge.svg)](https://github.com/sahith0293/m1_Bank-management-system_utility/actions/workflows/linux.yml)
