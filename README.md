@@ -16,3 +16,11 @@
 # unit testing
 * [![Unit testing](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml)
 
+## Folder Structure
+
+| Folder | Description |
+| --------- | ----------- |
+| 1_Requirements | Documents detailing requirements and research |
+| 2_ | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_Test cases |	Documents with test plans and procedures |
