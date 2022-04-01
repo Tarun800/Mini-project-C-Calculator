@@ -10,4 +10,5 @@
 
 * [![cppcheck](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/cpp.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/cpp.yml)
 
+* [![Unit testing](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml)
 
