@@ -4,5 +4,6 @@
 # Codiga
 * [![Code Grade](https://api.codiga.io/project/32263/status/svg)](https://app.codiga.io/public/project/32263/Mini-project-C-Student-Records/dashboard)
 
-
+CI 
+[![CI](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml)
 
