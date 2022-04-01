@@ -11,4 +11,11 @@
    * SEARCHING A RECORD: This function is used to search a record on the list.
 
 
+## Non Functional Requriments
+  * Security: Only authoried users can access the system with username and password
+  * Perfomance: Easy tracking of records and updation can be done.
+  * User friendly: The system is very interactive.
+  * Manintainbility: Backups for the database are available.
+
+
 
