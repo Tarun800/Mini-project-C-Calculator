@@ -6,3 +6,4 @@
 
 [![CI](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml)
 
+[![VALGRIND](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/VAL.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/VAL.yml)
