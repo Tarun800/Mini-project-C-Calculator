@@ -4,11 +4,15 @@
 # Codiga
 * [![Code Grade](https://api.codiga.io/project/32263/status/svg)](https://app.codiga.io/public/project/32263/Mini-project-C-Student-Records/dashboard)
 
+# Build
 * [![CI](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/main.yml)
 
+# Valgrind
 * [![VALGRIND](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/VAL.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/VAL.yml)
 
+# Cppcheck
 * [![cppcheck](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/cpp.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/cpp.yml)
 
+# unit testing
 * [![Unit testing](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml/badge.svg)](https://github.com/Tarun800/Mini-project-C-Student-Records/actions/workflows/unit.yml)
 
